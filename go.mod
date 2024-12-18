@@ -3,11 +3,6 @@ module main
 go 1.22
 
 require (
-	github.com/stretchr/testify v1.9.0
-	modernc.org/sqlite v1.33.1
-)
-
-require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/google/uuid v1.6.0 // indirect
