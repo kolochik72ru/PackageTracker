@@ -1,4 +1,4 @@
-module main
+module github.com/kolochik72ru/final-ci-cd
 
 go 1.22
 
